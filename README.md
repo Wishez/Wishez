@@ -6,15 +6,15 @@
 
 - 🌱 I’m currently learning **architecture, DDD, patterns, team lead approaches and algorithms**
 
-- 👨‍💻 Some of my projects are available at [https://shining-present.ru/](https://shining-present.ru/)
+- 👨‍💻 Some of my projects are available at [portfolio](https://shining-present.ru/)
 
-- 📝 I sometimes write articles on [https://shining-present.ru/articles/](https://shining-present.ru/articles/)
+- 📝 I sometimes write articles [here](https://shining-present.ru/articles/)
 
 - 💬 Ask me about **frameworks, design systems, patterns, SOLID** and everything you want, i'm ready 😉
  
-- 📫 How to reach me: **shiningfinger@list.ru** or telegram: **[https://tglink.ru/it_shiningfinger](@it_shiningfinger)**</a> 
+- 📫 How to reach me: **shiningfinger@list.ru** or [telegram](https://tglink.ru/it_shiningfinger)</a> 
 
-- 📄 Know about my experiences [https://hh.ru/resume/cde85c3dff058a01fc0039ed1f563353375975](in a resume) 😎
+- 📄 Know about my experiences [in a resume](https://hh.ru/resume/cde85c3dff058a01fc0039ed1f563353375975) 😎
 
 - 🐙 Fun fact: I was in gay club two times. I had fun 🌝
 
