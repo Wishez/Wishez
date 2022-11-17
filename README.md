@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wishez&label=Best%20Visitors&color=FE6D96&style=flat" alt="wishez" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wishez" alt="wishez" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=wishez" alt="wishez" /></a> </p>
 
 - 🌱 I’m currently learning **architecture, DDD, patterns, team lead approaches and algorithms**
 
@@ -19,12 +19,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/shiningfinger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shiningfinger" height="30" width="40" /></a>
-<a href="https://dev.to/shiningfinger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shiningfinger" height="30" width="40" /></a>
-<a href="https://twitter.com/__shiningfinger" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__shiningfinger" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/filipp-zhuravlev-8b2412248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="filipp-zhuravlev-8b2412248" height="30" width="40" /></a>
-<a href="https://instagram.com/shiningfinger_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shiningfinger_" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/wishez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wishez" height="30" width="40" /></a>
+<a href="https://codepen.io/shiningfinger" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shiningfinger" height="30" width="40" /></a>
+<a href="https://dev.to/shiningfinger" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shiningfinger" height="30" width="40" /></a>
+<a href="https://twitter.com/__shiningfinger" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="__shiningfinger" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/filipp-zhuravlev-8b2412248" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="filipp-zhuravlev-8b2412248" height="30" width="40" /></a>
+<a href="https://instagram.com/shiningfinger_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shiningfinger_" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/wishez" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wishez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
