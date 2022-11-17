@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wishez&label=Best%20Visitors&color=FE6D96&style=flat" alt="wishez" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=wishez" alt="wishez" /></a> </p>
 
 - 🌱 I’m currently learning **architecture, DDD, patterns, team lead approaches and algorithms**
 
@@ -26,6 +25,16 @@
 <a href="https://instagram.com/shiningfinger_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shiningfinger_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/wishez" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wishez" height="30" width="40" /></a>
 </p>
+
+
+<table><tbody><tr>
+  <td style="border: 0;">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=wishez&show_icons=true&locale=en&hide_title=true&hide_border=true&theme=dracula&icon_color=FE6D96&bg_color=272A36&text_color=F7F7F1" alt="wishez" />
+  </td>    
+  <td style="border: 0;">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wishez&theme=dracula&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D" alt="wishez" />
+  </td>
+</tr></tbody></table>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -87,13 +96,6 @@
     <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> 
 </p>
 
-<table><tbody><tr>
-  <td style="border: 0;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=wishez&show_icons=true&locale=en&hide_title=true&hide_border=true&theme=dracula&icon_color=FE6D96&bg_color=272A36&text_color=F7F7F1" alt="wishez" />
-  </td>    
-  <td style="border: 0;">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wishez&theme=dracula&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D" alt="wishez" />
-  </td>
-</tr></tbody></table>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=wishez" alt="wishez" /></a> </p>
 
 
