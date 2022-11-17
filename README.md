@@ -100,4 +100,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=wishez" alt="wishez" /></a> </p>
 
+<h3 align="center">Have fun with meme</h3>
+<div  align="center">
+ <img src='https://random-memer.herokuapp.com/' title="Meme" width="300" alt="Please refresh the page if the meme doesn't show up.">
+</div>
 
