@@ -10,11 +10,13 @@
 
 - 📝 I sometimes write articles on [https://shining-present.ru/articles/](https://shining-present.ru/articles/)
 
-- 💬 Ask me about **frameworks, design systems, patterns, SOLID**
+- 💬 Ask me about **frameworks, design systems, patterns, SOLID** and everything you want, i'm ready 😉
+ 
+- 📫 How to reach me: **shiningfinger@list.ru** or telegram: **[https://tglink.ru/it_shiningfinger](@it_shiningfinger)**</a> 
 
-- 📫 How to reach me **shiningfinger@list.ru** or telegram: **@it_shiningfinger**
+- 📄 Know about my experiences [https://hh.ru/resume/cde85c3dff058a01fc0039ed1f563353375975](in a resume) 😎
 
-- 📄 Know about my experiences [https://hh.ru/resume/cde85c3dff058a01fc0039ed1f563353375975](https://hh.ru/resume/cde85c3dff058a01fc0039ed1f563353375975)
+- 🐙 Fun fact: I was in gay club two times. I had fun 🌝
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
