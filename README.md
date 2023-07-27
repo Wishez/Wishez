@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🖖🏽, I'm Phil</h1>
-<h3 align="center">I 💜 to 👨🏽‍💻 applications:3</h3>
+<h3 align="center">I 💜 to 👨🏽‍💻 systems:3</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wishez&label=Best%20Visitors&color=FE6D96&style=flat" alt="wishez" /> </p>
 
